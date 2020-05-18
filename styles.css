@@ -1,0 +1,27 @@
+body {
+	width:100%;
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-image:url(https://previews.123rf.com/images/aleksorel/aleksorel1612/aleksorel161200011/67563615-erreur-page-404-de-conception-mise-en-page-de-vecteur-site-web-404-page-concept-cr%C3%A9atif-404-page-web-e.jpg);
+	margin:0px;
+	padding:0px;
+	background-position: center;
+}
+
+form {
+	padding-left:80%;
+	padding-top:45%;
+
+}
+
+input {
+	font-size:30px;
+}
+
+
+}
+input:visited {color:#93c;}
+input:hover{ 
+	background-color:red;
+	cursor:pointer;
+ }
