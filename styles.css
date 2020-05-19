@@ -22,6 +22,6 @@ input {
 }
 input:visited {color:#93c;}
 input:hover{ 
-	background-color:red;
+	background-color:#BD3D3E;
 	cursor:pointer;
  }
